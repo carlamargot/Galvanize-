@@ -27,3 +27,41 @@ Companies in this domain use risk reduction and control implementation as a metr
 
 # Recommendations 
 My recommendation to Galvanize would be to offer a package that tailors more towards smaller organizations. Many of the products offered by Galvanize seem to cater to larger organizations and might not offer the same benefits to a smaller organization. While I understand targeting larger organizations, I think that creating a platform specific to smaller organizations, Galvanize might be able to help them scale and have a better understanding of their business. I think offering a smaller comprehensive platform would benefit Galvanize by providing them with a new type of clientele. This could potentially lead to Galvanize offering data analytics on how to improve and grow small businesses.  I don’t think Galvanize would need to use any new technologies to offer this service however, they might benefit from adding a few partners to their association network to provide more insightful information to their clients. I think the technologies that Galvanize currently employs would allow them to offer a smaller platform because we are not adding to the platform but instead adjusting it to the needs of a smaller organization. 
+
+# Bibliography 
+
+Highbond - Software For Security, Risk, Compliance, & Audit Management
+https://www.wegalvanize.com/highbond/
+
+History Of Grc: Governance, Risk Management & Compliance History
+https://onspring.com/blog/history-of-grc-governance-risk-management-compliance-history/
+
+Acl Accelerates Category Consolidation Vision with $50 Million Strategic Investment from Norwest
+https://www.wegalvanize.com/news-releases-acl/acl-accelerates-category-consolidation-vision-with-50-million-strategic-investment-from-norwest/
+
+Vancouver's Acl Acquires Rsam, Doubling R&d Capacity
+https://biv.com/article/2019/02/vancouvers-acl-acquires-rsam-doubling-rd-capacity
+
+Acl and Rsam Unveil New Brand and Product Platform
+Industry News May 14-Industry News-May 14 - https://www.helpnetsecurity.com/2019/05/14/acl-rsam-galvanize/
+
+HighBond - What is ACL Robotics
+
+https://help.highbond.com/helpdocs/highbond/en-us/Content/robots/acl_robotics.htm#:~:text=ACL%20Robotics%20is%20a%20Galvanize,%E2%80%93%20but%20critical%20%E2%80%93%20business%20processes
+
+Why Servicenow (now) Is Buying Element Ai
+https://pulse2.com/why-servicenow-now-is-buying-element-ai/?utm_source=dlvr.it&utm_medium=twitter
+
+The Forrester Wave™: Governance, Risk, And Compliance Platforms, Q1 2020
+https://reprints.forrester.com/?mkt_tok=eyJpIjoiWm1RME5HWmtNemMxT1RneiIsInQiOiJWOWFCR1NrcFFHMlkwQ3VramNVRCt2OEgwK1hXbTZmZnpzb2ZnMU5XQ3kxaXRVSVJSZWF2RWRka20xZkFvMzZSUkhMeVhxXC80enoyXC9mTU11Y0lQVmN0Z3dEYjloWlV3STVmTzFPUHdRdkY2cUhPMno4VVFIRUlRNksyWDFYXC8xOSJ9#/assets/2/452/RES157256/reports
+Metricstream Launches New Innovations on M7 Integrated Risk Platform
+Widex-Developed Artificial Intelligence Promises to Revolutionize Hearing Aids - https://aithority.com/security/metricstream-launches-new-innovations-on-m7-integrated-risk-platform/
+
+Introducing Galvanize: Acl and Rsam Rebrand To Create Grc Category-defining Company
+Business Wire - https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/introducing-galvanize-acl-and-rsam-rebrand-to-create-grc-category-defining-company
+
+A New Milestone For Element Ai
+https://www.elementai.com/news/2020/ceo-letter
+
+Gartner's Top 10 Integrated Risk Management Success Factors
+https://www.resolver.com/blog/gartner-irm-success-factors/
