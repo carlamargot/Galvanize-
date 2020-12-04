@@ -1,6 +1,8 @@
 # Galvanize-
 Case Study 
 
+![galvanize_image](https://user-images.githubusercontent.com/73208140/101224981-3e00d600-365e-11eb-87ac-83f0bfec9e7a.png)
+
 The Vancouver based company Galvanize offers a regulatory tech SaaS (software as a service) platform for the governance, risk management and compliance domain. Galvanize uses automation, real time and cloud based technology to provide customers with a variety of easy to use products on one integrated software platform. Galvanize has the ability to target a variety of different organizations through the range of products that they offer. Currently, Galvanize has become one of the largest global competitors in this space as they serves more than 6,300 organizations in 130 countries ranging from banks, to government to Fortune1000 and S&P 500 companies. 
 # A Brief History of GRC
 The use of technology in the realm of governance, risk management and compliance is relatively new. In fact, the GRC domain as an integrated sector is relatively a new concept. What is commonly known today as the GRC  domain was originally comprised of smaller silos (i.e. audit, risk, policy etc.). Over the past decade it became evident that these silos were much more connected than what was once thought and amalgamated to make a more inclusive and cohesive understanding of the GRC domain; therefore forming the umbrella domain of GRC. This amalgamation has allowed for business’ to have a more comprehensive scope of their organizational governance. What was once considered a secondary business function is now considered pivotal to the foundation and success of organizations.
