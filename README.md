@@ -1,5 +1,5 @@
-# Galvanize-
-Case Study 
+# Galvanize Case Study 
+
 
 ![galvanize_image](https://user-images.githubusercontent.com/73208140/101224981-3e00d600-365e-11eb-87ac-83f0bfec9e7a.png)
 
